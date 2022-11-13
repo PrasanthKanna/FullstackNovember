@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1> heading one</h1>
+        <h2> heading two</h2>
+        <h3> heading three</h3>
+        <p> this is sample paragraph tag </p>
+        <a href="https://google.com">Link to google</a>
+    </body>
+</html>
